@@ -1,13 +1,14 @@
-### Hi there 👋
+
 
 
 <div align="center">
-
-# Gabriel, Executive Quant @ IQAM Invest part of Deka Group
+## Hi there 👋
+## my name is Gabriel and I am
+## Executive Quant @ IQAM Invest part of Deka Group
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,cpp,docker,git,grafana,julia,latex,linux,matlab,md,netlify,octave,postgres,py,pytorch,r,raspberrypi,sqlite,tensorflow,arduino" />
+    <img src="https://skillicons.dev/icons?i=atom,bash,bots,css,cpp,docker,git,grafana,julia,latex,linux,matlab,md,mongodb,mysql,netlify,octave,postgres,py,pytorch,r,raspberrypi,sqlite,tensorflow,arduino" />
   </a>
 </p>
 
@@ -17,32 +18,35 @@
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielKaiserQFin&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielKaiserQFin&hide_progress=true)
+![Top Langs]([![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielKaiserQFin&layout=donut)]
 
 <h2 align="center">Connect:</h2>
 <p align="center">
  <a href="https://gabrielkaiserqfin.github.io/" target="blank"><img align="center"
    <img src="https://skillicons.dev/icons?i=netlify" />
-      height="40" width="40" /></a>
+      </a>
   </p>
   <a href="https://www.linkedin.com/in/gabriel-kaiser-phd-a98a0083/" target="blank"><img align="center"
-      src="images/linkedin.png"
-      height="40" width="40" /></a>  
+      <img src="https://skillicons.dev/icons?i=linkedin" />
+	    </a> 
 </div>
 
 
 
 <!--
 **GabrielKaiserQFin/GabrielKaiserQFin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+height="40" width="40" /> 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👯 I’m looking to collaborate on quant finance and machine learning related projects.
+- 📫 How to reach me: either via Linkedin or see the about page of my homepage.

@@ -34,8 +34,10 @@ I am Executive Quant @ IQAM Invest part of Deka Group <br />
 <h2 align="left">Projects:</h2>
 <br />
 <div align="left">
+
 - 👯 I’m looking to collaborate on quant finance and machine learning related projects.
 - 📫 How to reach me: Either via Linkedin or see the about page of my homepage.
+
 </div>
 
 <h2 align="left">Connect:</h2>

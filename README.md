@@ -20,11 +20,10 @@
 <h2 align="left">Stats:</h2>
 
 <p align="center">
-
+<!--
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielKaiserQFin&theme=tokyonight)
-
+-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielKaiserQFin&layout=donut)
-
 </p>
 
 <h2 align="left">Projects:</h2>

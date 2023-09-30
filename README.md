@@ -20,9 +20,11 @@
 <h2 align="left">Stats:</h2>
 
 <p align="center">
+
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielKaiserQFin&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielKaiserQFin&layout=donut)
+
 </p>
 
 <h2 align="left">Projects:</h2>
@@ -35,11 +37,11 @@
 
 <p align="center">
 
- <a href="https://gabrielkaiserqfin.github.io/" target="blank"><img align="center"
+ <a href="https://gabrielkaiserqfin.github.io/" target="blank">
    <img src="https://skillicons.dev/icons?i=netlify" />
       </a>
  
-  <a href="https://www.linkedin.com/in/gabriel-kaiser-phd-a98a0083/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/gabriel-kaiser-phd-a98a0083/" target="blank">
       <img src="https://skillicons.dev/icons?i=linkedin" />
 	    </a> 
 		

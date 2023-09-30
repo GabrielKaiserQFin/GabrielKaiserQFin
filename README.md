@@ -2,12 +2,14 @@
 
 
 Hi there 👋 <br />
+<br />
 my name is Gabriel <br />
+<br />
 I am Executive Quant @ IQAM Invest part of Deka Group <br />
 <br />
-<br />
 
 
+<h2 align="left">Skills:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=atom,bash,bots,css,cpp,docker,git,github,githubactions,gitlab,grafana,julia,latex,linux,matlab,md,mongodb,mysql,netlify,octave,postgres,py,pytorch,r,raspberrypi,sqlite,tensorflow,arduino" />
@@ -17,6 +19,8 @@ I am Executive Quant @ IQAM Invest part of Deka Group <br />
 <br>
 
 <h2 align="left">Stats:</h2>
+
+<br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielKaiserQFin&layout=donut)
 <!--
@@ -28,10 +32,11 @@ I am Executive Quant @ IQAM Invest part of Deka Group <br />
 
 
 <h2 align="left">Projects:</h2>
-
+<br />
+<div align="left">
 - 👯 I’m looking to collaborate on quant finance and machine learning related projects.
 - 📫 How to reach me: Either via Linkedin or see the about page of my homepage.
-
+</div>
 
 <h2 align="left">Connect:</h2>
 

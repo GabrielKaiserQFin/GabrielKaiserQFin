@@ -2,23 +2,32 @@
 
 
 <div align="center">
+
 ## Hi there 👋
+
 ## my name is Gabriel and I am
+
 ## Executive Quant @ IQAM Invest part of Deka Group
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=atom,bash,bots,css,cpp,docker,git,grafana,julia,latex,linux,matlab,md,mongodb,mysql,netlify,octave,postgres,py,pytorch,r,raspberrypi,sqlite,tensorflow,arduino" />
+    <img src="https://skillicons.dev/icons?i=atom,bash,bots,css,cpp,docker,git,github,githubactions,gitlab,grafana,julia,latex,linux,matlab,md,mongodb,mysql,netlify,octave,postgres,py,pytorch,r,raspberrypi,sqlite,tensorflow,arduino" />
   </a>
 </p>
 
 <br>
 
-<h2 align="center">Stats</h2>
+<h2 align="center">Stats:</h2>
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielKaiserQFin&theme=tokyonight)
 
-![Top Langs]([![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielKaiserQFin&layout=donut)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielKaiserQFin&layout=donut)]
+
+<h2 align="center">Projects:</h2>
+
+- 👯 I’m looking to collaborate on quant finance and machine learning related projects.
+- 📫 How to reach me: Either via Linkedin or see the about page of my homepage.
+
 
 <h2 align="center">Connect:</h2>
 <p align="center">
@@ -47,6 +56,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-- 👯 I’m looking to collaborate on quant finance and machine learning related projects.
-- 📫 How to reach me: either via Linkedin or see the about page of my homepage.

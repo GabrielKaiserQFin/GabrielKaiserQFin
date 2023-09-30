@@ -1,8 +1,12 @@
 <div align="left">
 
-## Hi there 👋 my name is Gabriel 
+<a>
+
+## Hi there 👋 
+## my name is Gabriel 
 ## I am Executive Quant @ IQAM Invest part of Deka Group
 
+</a>
 
 
 <p align="center">
@@ -28,7 +32,9 @@
 
 
 <h2 align="left">Connect:</h2>
+
 <p align="center">
+
  <a href="https://gabrielkaiserqfin.github.io/" target="blank"><img align="center"
    <img src="https://skillicons.dev/icons?i=netlify" />
       </a>
@@ -36,7 +42,8 @@
   <a href="https://www.linkedin.com/in/gabriel-kaiser-phd-a98a0083/" target="blank"><img align="center"
       <img src="https://skillicons.dev/icons?i=linkedin" />
 	    </a> 
-	</p>
+		
+</p>
 </div>
 
 

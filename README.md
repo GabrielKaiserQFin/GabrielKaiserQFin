@@ -1,12 +1,11 @@
 <div align="center">
 
 
-<a
-
-Hi there 👋 
-my name is Gabriel 
-I am Executive Quant @ IQAM Invest part of Deka Group
-</a>
+Hi there 👋 <br />
+my name is Gabriel <br />
+I am Executive Quant @ IQAM Invest part of Deka Group <br />
+<br />
+<br />
 
 
 <p align="center">

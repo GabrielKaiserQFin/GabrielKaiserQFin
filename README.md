@@ -1,13 +1,14 @@
 <div align="left">
 
-<a>
+<p align="center">
+<a
 
 ## Hi there 👋 
 ## my name is Gabriel 
 ## I am Executive Quant @ IQAM Invest part of Deka Group
 
 </a>
-
+</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -19,12 +20,14 @@
 
 <h2 align="left">Stats:</h2>
 
-<p align="center">
-<!--
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielKaiserQFin&theme=tokyonight)
--->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielKaiserQFin&layout=donut)
+<!--
+<p align="center">
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielKaiserQFin&theme=tokyonight)
 </p>
+-->
+
+
 
 <h2 align="left">Projects:</h2>
 

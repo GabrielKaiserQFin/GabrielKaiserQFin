@@ -3,9 +3,9 @@
 
 Hi there 👋 <br />
 <br />
-my name is Gabriel <br />
+my name is Gabriel and I am <br />
 <br />
-I am Executive Quant @ IQAM Invest part of Deka Group <br />
+Executive Quant @ IQAM Invest part of Deka Group <br />
 <br />
 
 

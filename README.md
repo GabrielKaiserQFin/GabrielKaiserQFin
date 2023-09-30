@@ -1,13 +1,9 @@
 
 
 
-<div align="center">
+<div align="left">
 
-## Hi there 👋
-
-## my name is Gabriel and I am
-
-## Executive Quant @ IQAM Invest part of Deka Group
+## Hi there 👋 my name is Gabriel and I am /n Executive Quant @ IQAM Invest part of Deka Group
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -23,7 +19,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielKaiserQFin&layout=donut)]
 
-<h2 align="center">Projects:</h2>
+<h2 align="left">Projects:</h2>
 
 - 👯 I’m looking to collaborate on quant finance and machine learning related projects.
 - 📫 How to reach me: Either via Linkedin or see the about page of my homepage.

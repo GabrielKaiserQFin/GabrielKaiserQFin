@@ -1,14 +1,13 @@
-<div align="left">
+<div align="center">
 
-<p align="center">
+
 <a
 
-## Hi there 👋 
-## my name is Gabriel 
-## I am Executive Quant @ IQAM Invest part of Deka Group
-
+Hi there 👋 
+my name is Gabriel 
+I am Executive Quant @ IQAM Invest part of Deka Group
 </a>
-</p>
+
 
 <p align="center">
   <a href="https://skillicons.dev">

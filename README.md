@@ -39,6 +39,7 @@ I am Executive Quant @ IQAM Invest part of Deka Group <br />
 - 📫 How to reach me: Either via Linkedin or see the about page of my homepage.
 
 </div>
+<br />
 
 <h2 align="left">Connect:</h2>
 
